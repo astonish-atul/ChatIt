@@ -1,4 +1,5 @@
-'''Welcome to ChatIt! (A MERN stack based chat app.)
+```
+Welcome to ChatIt! (A MERN stack based chat app.)
 Where people connects and build relations.
 
 Features:
@@ -31,6 +32,7 @@ CLOUDINARY_CLOUD_NAME=*********************
 CLOUDINARY_API_KEY=*********************
 CLOUDINARY_API_SECRET=*********************
 
-'''
+```
+
 
 
