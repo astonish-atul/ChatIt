@@ -1,38 +1,35 @@
+# Welcome to ChatIt!
+
+A **MERN stack-based chat application** where people connect and build relationships.
+
+### Features
+
+* Real-time messaging with **Socket.io**
+* **Online user status**
+* **Authentication & Authorization** with JWT
+* **Customizable theme** to bring comfort in chat environment
+
+### Tech Stack
+
+* **MERN**
+* **Tailwind CSS**
+* **Socket.io**
+* **DaisyUI**
+
+### How to Run
+
+1. Clone the repository using git clone
+2. Install all necessary dependencies: using npm install
+3. Create a .env file with the following structure:
 ```
-Welcome to ChatIt! (A MERN stack based chat app.)
-Where people connects and build relations.
-
-Features:
-Real-time messaging with Socket.io
-Online user status
-Authentication & Authorization with JWT
-Customizable theme to bring comfort in chat env
-
-Tech stack:
-MERN 
-Tailwind css
-Socket.io
-DaisyUI
-
-
-To run this 
-1.Clone the repo from the link shared 
-2.install all neccessary dependency using "npm install"
-3.create .env file str given below
-4.run the command "npm run dev" in both frontend and backend dir from terminal
-5.Enjoy real time chatting by using localhost link
-
-
-.env file
-
 MONGODB_URI=*********************
-PORT=5001 (any free local port)
+PORT=5001  # any free local port
 JWT_SECRET=*********************
 CLOUDINARY_CLOUD_NAME=*********************
 CLOUDINARY_API_KEY=*********************
 CLOUDINARY_API_SECRET=*********************
-
 ```
-
+4. Run the development servers: **npm run dev**(Execute this in both frontend and backend directories from terminal)
+5. Enjoy real-time chatting using the localhost link.
 
 
